@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name" translatable="false">Art Space</string>
+    <string name="aristotel">Аристотель</string>
+    <string name="aristotel_say">Ум заключается не только в знании, но и в умении прилагать знание на деле</string>
+    <string name="avreliy">Марк Аврелий</string>
+    <string name="avreliy_say">Человек должен быть честным по натуре, а не по обстоятельствам</string>
+    <string name="pifagor">Пифагор</string>
+    <string name="pidagor_say">Всё смертно, кроме разума</string>
+    <string name="socrat">Сократ</string>
+    <string name="socrat_say">Никто тебе не друг, никто тебе не враг, но всякий человек тебе учитель</string>
+</resources>
