@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Business Card</string>
+    <string name="full_name">Тарасов Александр Георгиевич</string>
+    <string name="title">Студент</string>
+    <string name="phone_number">+7987654321</string>
+    <string name="github_nick">SashaMKB</string>
+    <string name="email">tar-alex@mail.ru</string>
+</resources>
