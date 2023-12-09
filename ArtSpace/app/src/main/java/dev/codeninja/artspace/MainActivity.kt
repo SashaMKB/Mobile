@@ -110,7 +110,6 @@ fun ArtSpaceScreen(modifier: Modifier = Modifier) {
 				Text(
 					text = "Previous",
 					fontSize = 16.sp,
-					fontWeight = FontWeight.Medium,
 					color = colorResource(id = R.color.blue_300)
 				)
 			}
@@ -153,7 +152,6 @@ fun ArtSpaceScreen(modifier: Modifier = Modifier) {
 				Text(
 					text = "Next",
 					fontSize = 16.sp,
-					fontWeight = FontWeight.Medium,
 					color = colorResource(id = R.color.gray_900)
 				)
 			}
